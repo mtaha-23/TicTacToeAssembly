@@ -1,6 +1,5 @@
 # TicTacToe-Assembly
 - Tic-Tac-Toe game implemented in assembly (8088)  You need a 8088 emulator to run this game.
-- You need a 8088 emulator to run this game.
 - It is a 2 player game. Player 1 will place 'X' mark and Player 2 will place 'O' mark.
 - At Start both player enter their names
 - You can quit the game in between using ESC
