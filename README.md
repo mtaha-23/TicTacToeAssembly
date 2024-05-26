@@ -10,22 +10,21 @@ Follow these steps to compile and run your assembly file using DOSBox.
 - Download and install [DOSBox](https://www.dosbox.com/download.php?main=1).
 - Download or clone this repository.
 ## Steps
-1. **Mount the Directory in DOSBox:**
+1. **Mount the Directory in DOSBox:**<br>
    Open DOSBox and mount the directory where your file is stored. Replace `(directory_name)` with the actual directory path:
    ```
    mount c c:\(directory_name)
 2. **Switch to the Mounted Drive:**
    ```
    c:
-3. **Compile the File:**
+3. **Compile the File:**<br>
    Use NASM to compile the assembly file. Replace filename.asm with the actual file name:
    ```
    nasm filename.asm -o obj.exe
-4. **Run the Compiled File:**
+5. **Run the Compiled File:**
     ```
     obj
-   
-# Screenshots
+# Game Screenshots
 #### - Menu <br>
 ![Screenshot 2024-01-03 212332](https://github.com/mtaha-23/TicTacToe-Assembly/assets/132524394/8ad2e4ca-ec08-40af-bd45-40b391482a37)
 
