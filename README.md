@@ -4,6 +4,9 @@
 - At Start both player enter their names
 - You can quit the game in between using ESC
 
+# Gameplay Video
+Watch the gameplay video: [TicTacTao Game](https://github.com/mtaha-23/TicTacToe-Assembly/issues/1#issue-2339549354)
+
 # How to Compile and Run a File in DOSBox
 Follow these steps to compile and run your assembly file using DOSBox.
 ## Prerequisites
